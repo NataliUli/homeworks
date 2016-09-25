@@ -1,0 +1,18 @@
+* {margin-left: 0; margin-right: 0; font-family:Tahoma,"Times New Roman",serif;}
+
+.header {background-color: #929fa3;}
+.contacts {color: #2b3c3d; font-size: 13px}
+
+h1 {font-family: CANDARA,"Times New Roman",serif; color: #d6e1f4;  font-size: 60px; margin-left: 0;
+    text-shadow: 0 0 5px #000;}
+
+a:hover {color: deeppink; text-decoration: none; font-family: CANDARA,"Times New Roman",serif;}
+a {color: dimgray; font-family: CANDARA,"Times New Roman",serif;}
+.icons div{display: inline-block; width:186px; margin: 0}
+.content {background-color: #e9fafa
+}
+p {font-size: 20px; font-weight: 900}
+.btn  {font-size: 23px; font-weight: 600; text-align:center; margin: 15px;}
+.header {margin-left: 150px; margin-right: 150px}
+.btn {margin-left: 100px; margin-right: 100px}
+.content {margin-left: 150px; margin-right: 150px}
